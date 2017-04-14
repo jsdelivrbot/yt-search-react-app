@@ -1,0 +1,32 @@
+.search{
+  width: 100%;
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+  padding-bottom: 40px;
+}
+.search input{
+  width: 80%;
+  display: block;
+  margin : 0 auto;
+}
+
+.header{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.details{
+  padding: 20px 0;
+}
+
+.title{
+  font-size: 18px;
+}
+.subtitle{
+  font-size: 14px;
+}
+
+.list-group-item:hover, .list-group-item:active{
+  background: #ced0d2;
+}
